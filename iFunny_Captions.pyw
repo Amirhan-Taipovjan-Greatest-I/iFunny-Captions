@@ -37,7 +37,7 @@ from PIL import Image, ImageChops, ImageColor as IC, ImageDraw, ImageFile, Image
 __author__	= "Amirhan-Taipovjan-Greatest-I"
 __copyright__ = __author__
 __credits__	= __author__, "UhhhAaron", "kubinka0505", "SuperCuber"
-__version__	= "3.7"
+__version__	= "3.9"
 __date__	= "21.12.2023"
 __status__	= "Mature"
 __license__	= "GPL V3"
