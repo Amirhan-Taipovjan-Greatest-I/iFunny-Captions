@@ -1,10 +1,10 @@
 {
 	"Text": {
-		"Content": "Sample 💀 Text 😂",
-		"Additional_Wrap": -5,
+		"Content": "",
+		"Additional_Wrap": 5,
 		"Kerning": 0,
 		"Font": {
-			"Type": 1
+			"Type": 2
 		},
 		"Replacements": {
 			"''":	"\"",
@@ -19,7 +19,7 @@
 	},
 	"Media": {
 		"Image": {
-			"URL_or_Path": "https://media.tenor.com/O5sbAjo0-nYAAAAd/hellinheavns-capybara.gif",
+			"URL_or_Path": "",
 			"Scale_Back": true,
 			"Watermark": false
 		},
