@@ -1,6 +1,6 @@
 {
 	"Text": {
-		"Content": "",
+		"Content": "Sample 💀 Text 😂",
 		"Additional_Wrap": 5,
 		"Kerning": 0,
 		"Font": {
@@ -29,7 +29,7 @@
 				"End": 0.0
 			},
 			"Audio": {
-				"URL_or_Path": "",
+				"URL_or_Path": "https://media.tenor.com/O5sbAjo0-nYAAAAd/hellinheavns-capybara.gif",
 				"Bitrate": 192,
 				"Channels": 2
 			},
