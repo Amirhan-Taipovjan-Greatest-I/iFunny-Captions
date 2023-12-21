@@ -32,7 +32,7 @@
 - ✔️ Emoji support<sup>3</sup>
 - ✔️ Automatic text wrap
 
-<sup>1</sup> - Please look at [Custom Fonts](http://github.com/Amirhan-Taipovjan-Greatest-I/iFunny-Captions/wiki/Custom-Fonts) section in wiki.<br>
+<sup>1</sup> - Please look at [Custom Fonts](http://github.com/kubinka0505/iFunny-Captions/wiki/Custom-Fonts) section in wiki.<br>
 <sup>2</sup> - Problems with wrap height might occur.
 
 ## Requirements
@@ -67,12 +67,12 @@ Packages (bold links are **Windows** static executable binaries):
 **For non-Debian distros, use the equivalent package manager to install these dependencies.**
 1. Clone the repository and move to its directory.
 	```bash
-	git clone http://github.com/UhhhAaron/GIF-Caption-Creator
+	git clone http://github.com/Amirhan-Taipovjan-Greatest-I/iFunny-Captions
 	cd iFunny-Captions
 	```
 2. Install required modules	by inputting `pip install -r requirements.txt`
-3. Allocate [the required files](http://github.com/UhhhAaron/GIF-Caption-Creator#requirements-) to `PATH` system environment variable.
-4. Modify the parameters in the `Config.json` file. [Its documentation can be found here](http://github.com/UhhhAaron/GIF-Caption-Creator/wiki/Configuration-Documentation).
+3. Allocate [the required files](http://github.com/Amirhan-Taipovjan-Greatest-I/iFunny-Captions#requirements-) to `PATH` system environment variable.
+4. Modify the parameters in the `Config.json` file. [Its documentation can be found here](http://github.com/kubinka0505/iFunny-Captions/wiki/Configuration-Documentation).
 5. Open shell script file named `Run`. Supports positional arguments - type `python iFunny_Captions.pyw -h` for more.
 6. Output should be in the `Images` folder.
 
