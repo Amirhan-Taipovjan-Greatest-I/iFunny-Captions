@@ -1,4 +1,4 @@
-<p align=center><a href=http://ifunny.co><img src=https://raw.githubusercontent.com/UhhhAaron/iFunny-Captions/master/Documents/Pictures/Main/gifcaptioncreator.png width=675></a></p>
+<p align=center><a href=http://ifunny.co><img src=https://raw.githubusercontent.com/kubinka0505/iFunny-Captions/master/Documents/Pictures/Main/gifcaptioncreator.png width=675></a></p>
 
 <p align=center><a href=http://python.org/downloads/release/python-376><img src=https://img.shields.io/badge/Python-3.7.6-brightgreen?logo=python&logoColor=white&link=http://python.org/downloads/release/python-376&style=for-the-badge></a>
 
@@ -122,5 +122,5 @@ Be sure to copy the **raw image URL**.
 
 - | iFunny Android App | `GIF-Caption-Creator` |
   |:-:|:-:|
-  | <img src=https://raw.githubusercontent.com/Amirhan-Taipovjan-Greatest-I/iFunny-Captions/master/Documents/Pictures/Comparison_Graphics/1/iFunny.gif width=150> | <img src=https://raw.githubusercontent.com/UhhhAaron/GIF-Caption-Creator/master/Documents/Pictures/Comparison_Graphics/1/iFunny-Captions.gif width=150> 
-  | <img src=https://raw.githubusercontent.com/Amirhan-Taipovjan-Greatest-I/iFunny-Captions/master/Documents/Pictures/Comparison_Graphics/2/iFunny.gif width=150> | <img src=https://raw.githubusercontent.com/UhhhAaron/GIF-Caption-Creator/master/Documents/Pictures/Comparison_Graphics/2/iFunny-Captions.gif width=150> |
+  | <img src=https://raw.githubusercontent.com/Amirhan-Taipovjan-Greatest-I/iFunny-Captions/master/Documents/Pictures/Comparison_Graphics/1/iFunny.gif width=150> | <img src=https://raw.githubusercontent.com/Amirhan-Taipovjan-Greatest-I/iFunny-Captions/master/Documents/Pictures/Comparison_Graphics/1/iFunny-Captions.gif width=150> 
+  | <img src=https://raw.githubusercontent.com/Amirhan-Taipovjan-Greatest-I/iFunny-Captions/master/Documents/Pictures/Comparison_Graphics/2/iFunny.gif width=150> | <img src=https://raw.githubusercontent.com/Amirhan-Taipovjan-Greatest-I/iFunny-Captions/master/Documents/Pictures/Comparison_Graphics/2/iFunny-Captions.gif width=150> |
